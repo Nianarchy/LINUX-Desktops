@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    margin: 0% 30%;
+    background-image: linear-gradient(to left, #454545 , #000000);
+    color: white;
+}
+span{
+    color: green;
+}
+
+header{
+
+}
+
+nav li{
+    text-align: left;
+}
+nav li img{
+    width: 25px;
+}
+a{
+    color: green;
+}
